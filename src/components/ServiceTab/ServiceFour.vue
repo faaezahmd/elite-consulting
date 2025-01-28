@@ -12,7 +12,7 @@ We also know adults are not the only ones who struggle. Children and teenagers f
 
 <br>
 
-Whether it is navigating your relationships with your significant other or concerns with your kids, 61 Experience provides tools and resources to help you create the solutions that work for you and your family.
+Whether it is navigating your relationships with your significant other or concerns with your kids, Elite Consulting provides tools and resources to help you create the solutions that work for you and your family.
             </p>
             <div class="buttons-wrapper">
                     <button>Schedule Now</button>

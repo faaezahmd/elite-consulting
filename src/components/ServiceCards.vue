@@ -1,7 +1,7 @@
 <template>
     <div class="service-card-wrapper">
         <div class="service-cards">
-            <div class="card" data-aos="zoom-in">
+            <div class="card" data-aos-delay="100" data-aos="zoom-in">
                 <div class="card-icon">
                     <img src="../assets/images/home.png" alt="">
                 </div>
@@ -13,7 +13,7 @@
                 <span>Get one or both done in one visit</span>
 
             </div>
-            <div class="card" data-aos="zoom-in">
+            <div class="card" data-aos-delay="100" data-aos="zoom-in">
                 <div class="card-icon">
                     <img src="../assets/images/faith.png" alt="">
                 </div>
@@ -24,7 +24,7 @@
                 <span>Creating the option of faith in healing</span>
 
             </div>
-            <div class="card" data-aos="zoom-in">
+            <div class="card" data-aos-delay="100" data-aos="zoom-in">
                 <div class="card-icon">
                     <img src="../assets/images/trama.png" alt="">
                 </div>
@@ -34,7 +34,7 @@
           
                 <span>More than just talk therapy</span>
             </div>
-            <div class="card" data-aos="zoom-in">
+            <div class="card" data-aos-delay="100" data-aos="zoom-in">
                 <div class="card-icon">
                     <img src="../assets/images/faimly.png" alt="">
                 </div>
@@ -45,7 +45,7 @@
                 <span>Options for all ages</span>
             </div>
         </div>
-        <div class="buttons-wrapper" data-aos="fade-up">
+        <div class="buttons-wrapper" data-aos-delay="100" data-aos="fade-up">
             <!-- <button>Contact</button> -->
             <RouterLink to="/contact">Contact Us</RouterLink>
             <button>Schedule Now</button>

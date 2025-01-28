@@ -1,13 +1,13 @@
 <template>
     <div class="contact-section">
-        <h1 class="heading" data-aos="fade-up">CONTACT US </h1>
-        <p class="sub-title" data-aos="fade-up">We want to work with you regardless of your circumstances. You are your greatest asset.</p>
+        <h1 class="heading" data-aos-delay="50" data-aos="fade-up">CONTACT US </h1>
+        <p class="sub-title" data-aos-delay="50" data-aos="fade-up">We want to work with you regardless of your circumstances. You are your greatest asset.</p>
 
     <div class="contact-wrapper">   
-        <div class="contact-image" data-aos="fade-right">
-            <img src="../assets/images/si.jpg" alt="">
+        <div class="contact-image" >
+            <img src="../assets/images/si.jpg" alt="" data-aos-delay="50" data-aos="zoom-in">
         </div>
-        <div class="contact-form" data-aos="fade-left">
+        <div class="contact-form" data-aos-delay="50" data-aos="fade-left">
             <form @submit.prevent="submitForm">
             <div class="name">
                 <label for="name">Name</label>

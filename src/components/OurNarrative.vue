@@ -35,7 +35,7 @@ const props = defineProps({
   },
   subHeading: {
     type: String,
-    default: 'At 61 Experience we watched negative experiences steal life from those we love. Talk therapy is only part of the healing process. There is a reason your body remembers moments differently than your mind. 61 incorporates "bottom up" therapy and other tools to help your body get "un"-stuck so you can live in freedom.'
+    default: 'At Elite Consulting we watched negative experiences steal life from those we love. Talk therapy is only part of the healing process. There is a reason your body remembers moments differently than your mind. Elite Consulting "bottom up" therapy and other tools to help your body get "un"-stuck so you can live in freedom.'
   },
   textLine: {
     type: String,
@@ -57,14 +57,13 @@ const props = defineProps({
 </script>
 <template>
     <div class="narrative-card-wrapper"  :style="{ background: props.background }">
-        <div class="narrative-content" data-aos="fade-up">
+        <div class="narrative-content" data-aos-delay="100" data-aos="fade-up">
             <h1 class="heading">{{ props.heading }}</h1>
             <p class="sub-heading">
                 {{ props.subHeading }}
            </p>
    
-        <div class="narrative-cards" data-aos="zoom-in">
-            
+        <div class="narrative-cards">
             <Splide :options="options"  >
                 <SplideSlide>
                     <div class="card" :style="{  borderRadius: props.borderRadius, }">

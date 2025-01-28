@@ -9,11 +9,11 @@ This conversation gets us really excited! Trauma-or as we say negative experienc
 
 ​<br>
 
-61 utilizes a bottom-up approach incorporating Experiential Therapies that allow your nervous system to unlock the trauma stuck inside.  Most people experience "hyper" emotions (such as anxiety, anger, or OCD) or "hypo" emotions (depression or fear) at times the brain knows it shouldn't. The body is remembering something and can't figure out how to discharge those emotions at the appropriate time.
+Elite Consulting utilizes a bottom-up approach incorporating Experiential Therapies that allow your nervous system to unlock the trauma stuck inside.  Most people experience "hyper" emotions (such as anxiety, anger, or OCD) or "hypo" emotions (depression or fear) at times the brain knows it shouldn't. The body is remembering something and can't figure out how to discharge those emotions at the appropriate time.
 
 ​<br>
 
-The therapy at 61 teaches you the tools to be "un"-stuck in those emotions so you can move forward in your life.
+The therapy at Elite Consulting teaches you the tools to be "un"-stuck in those emotions so you can move forward in your life.
             </p>
             <div class="buttons-wrapper">
                     <button>Schedule Now</button>

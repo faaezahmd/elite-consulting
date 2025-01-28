@@ -19,7 +19,7 @@
         <div class="service-text" data-aos="fade-left">
 
         <p class="descruption">
-            61 Experience believes in a Christ based healing. This healing is accessible to actually experience the new life described in the bible. 
+            Elite Consulting believes in a Christ based healing. This healing is accessible to actually experience the new life described in the bible. 
 <br>​
 
 God is so much larger than we give credit. If you share this belief we will walk with you to discover the promises of healing in scripture. 

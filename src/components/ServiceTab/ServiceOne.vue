@@ -18,7 +18,7 @@
        
         <div class="service-text" data-aos="fade-left">
 
-        <p class="descruption">We understand you need these documents for stable housing. We at 61 Experience created visits just for you. Schedule your Housing Consultation and PSN in one visit. If you only need a PSN, we have a scheduling option for that as well.
+        <p class="descruption">We understand you need these documents for stable housing. We at Elite Consulting created visits just for you. Schedule your Housing Consultation and PSN in one visit. If you only need a PSN, we have a scheduling option for that as well.
 
             ​<br>
 

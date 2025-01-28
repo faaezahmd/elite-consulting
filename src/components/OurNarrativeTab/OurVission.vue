@@ -30,8 +30,6 @@
     text-align: left;
     font-weight: 600;
     color: #001c29;
-
-
 }
 
 .sub-title {
@@ -39,8 +37,6 @@
     line-height: normal;
     font-weight: 400;
     margin-top: 20px;
-    // margin-left: -50px;
-    // transform: skew(12deg, 355deg);
     padding: 16px 20px;
     color: #ffffff;
     background-color: #04364d;
@@ -94,24 +90,29 @@
         column-gap: 30px;
         padding: 80px 20px;
     }
+
     .heading {
         text-align: center;
     }
-    .negative-image{
+
+    .negative-image {
         order: 2;
     }
-    .mession-text{
+
+    .mession-text {
         order: 1;
     }
-    .sub-title{
+
+    .sub-title {
         margin-left: 0;
         margin-right: 0;
     }
+
     .decuration {
         top: -29px;
         z-index: 9;
         right: 0;
-        }
+    }
 }
 
 @media screen and (max-width: 575px) {

@@ -1,20 +1,15 @@
-
 <template>
     <div class="negative-card-wrapper">
         <div class="negative-content">
             <div style="align-content: center;" data-aos="fade-up">
-                <h1 class="heading">If you think you are eligible please  </h1>
+                <h1 class="heading">If you think you are eligible please </h1>
             </div>
-                
-    <div class="scroll-down">
-      
-      <div class="buttons-wrapper">
-          <RouterLink to="/contact">Contact Us</RouterLink>
-      </div>
-  </div>
-
+            <div class="scroll-down">
+                <div class="buttons-wrapper">
+                    <RouterLink to="/contact">Contact Us</RouterLink>
+                </div>
+            </div>
         </div>
-
     </div>
 </template>
 <style lang="scss" scoped>
@@ -35,13 +30,14 @@
     font-weight: 600;
     color: #001c29;
     margin-bottom: 10px
-
 }
 
 
 
-.buttons-wrapper{
-    button, a {
+.buttons-wrapper {
+
+    button,
+    a {
         text-decoration: none;
         font-weight: 600;
         font-size: 15px;
@@ -54,14 +50,24 @@
         border: none;
         transition: 0.2s;
         border-radius: 10px;
-        &:hover, &:active, &:focus {
+
+        &:hover,
+        &:active,
+        &:focus {
             color: #fff;
         }
     }
 }
+
 .scroll-down {
-    display: flex; flex-direction: column; align-items: center; gap: 10px;  justify-content: start;margin-top: 30px;
-    svg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    justify-content: start;
+    margin-top: 30px;
+
+    svg {
         width: 30px;
     }
 }
@@ -87,8 +93,9 @@
 
     .negative-content {
 
-    padding: 50px 30px;
-}
+        padding: 50px 30px;
+    }
+
     .narrative-cards {
         padding: 30px;
     }
